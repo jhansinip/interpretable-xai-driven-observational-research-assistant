@@ -1,0 +1,59 @@
+# ======================
+# Virtual environments
+# ======================
+zora/
+venv/
+
+# ======================
+# Environment variables
+# ======================
+.env
+.env.*
+
+# ======================
+# Models / ML artifacts
+# ======================
+models/
+model_cache/
+*.gguf
+*.pth
+*.pt
+*.bin
+*.onnx
+
+# ======================
+# Python cache
+# ======================
+__pycache__/
+*.pyc
+*.pyo
+
+# ======================
+# Logs
+# ======================
+*.log
+logs/
+
+# ======================
+# Redis / databases
+# ======================
+*.rdb
+
+# ======================
+# Node / React
+# ======================
+node_modules/
+dist/
+build/
+
+# ======================
+# Cache folders
+# ======================
+cache/
+
+# ======================
+# Secrets
+# ======================
+client_secret_*.json
+
+firebase.js 
