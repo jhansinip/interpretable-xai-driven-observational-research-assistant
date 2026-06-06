@@ -75,8 +75,8 @@ IXORA/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/SrishtiTurki/IXORA-Interpretable-XAI-driven-Observational-Research-Assistant.git
-cd IXORA-Interpretable-XAI-driven-Observational-Research-Assistant
+git clone https://github.com/jhansinip/interpretable-xai-driven-observational-research-assistant.git
+cd interpretable-xai-driven-observational-research-assistant
 ```
 
 ### 2. Install Python dependencies
